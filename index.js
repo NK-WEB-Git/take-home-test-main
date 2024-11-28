@@ -27,7 +27,5 @@ fs.writeFile(
     } else {
       console.log("success");
     }
-  }
+  },
 );
-
-/* eslint-enable no-console */
